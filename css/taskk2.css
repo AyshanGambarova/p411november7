@@ -1,0 +1,122 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.maindiv {
+  margin: 5px;
+}
+.clear-fix {
+  clear: both;
+}
+#logo {
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  width: 25%;
+  height: 50px;
+  display: inline-block;
+  float: left;
+}
+#logo p {
+  text-align: center;
+  padding-top: 10px;
+}
+#header {
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  width: 74%;
+  height: 50px;
+  display: inline-block;
+  float: right;
+}
+#header p {
+  text-align: center;
+  padding-top: 10px;
+}
+#primary-nav {
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  height: 50px;
+  margin-top: 10px;
+}
+#primary-nav p {
+  text-align: center;
+  padding-top: 10px;
+}
+#photo {
+  display: inline-block;
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  width: 50%;
+  margin-top: 10px;
+  height: 220px;
+  float: left;
+}
+#photo p {
+  text-align: center;
+  padding-top: 100px;
+}
+#message {
+  display: inline-block;
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  width: 49%;
+  margin-top: 10px;
+  height: 220px;
+  float: right;
+}
+#message p {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.areas {
+  margin-top: 10px;
+}
+#area1 {
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  display: inline-block;
+  float: left;
+  width: 33%;
+  height: 200px;
+  margin-right: 7px;
+}
+#area2 {
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  display: inline-block;
+  width: 33%;
+  height: 200px;
+}
+#area3 {
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  display: inline-block;
+  float: right;
+  width: 33%;
+  height: 200px;
+}
+.areas p {
+  text-align: center;
+  padding-top: 100px;
+}
+#footer {
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: orangered;
+  margin-top: 10px;
+  height: 50px;
+}
+#footer p {
+  text-align: center;
+  padding-top: 10px;
+}
